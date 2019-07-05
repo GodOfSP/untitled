@@ -33,7 +33,7 @@ public class GetPhoneListServlet extends HttpServlet {
     private void doAll(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         PrintWriter out = resp.getWriter();
         try {
-            out.println(JSON.toJSONString(new BaseResult("200","查询成功！",phoneService.getPhoneList())));
+            out.println(JSON.toJSONString(new BaseResult("200","查询成功!",phoneService.getPhoneList())));
         } catch (Exception e) {
             e.printStackTrace();
         }
