@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="CaoJianDAO (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CaoJianDAO.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.1.41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/CaoJianDAO.jar!/" />
+    </SOURCES>
+  </library>
+</component>

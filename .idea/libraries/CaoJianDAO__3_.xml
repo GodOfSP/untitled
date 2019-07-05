@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CaoJianDAO (3)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TestJ2EE/web/WEB-INF/lib/CaoJianDAO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/TestJ2EE/web/WEB-INF/lib/CaoJianDAO.jar!/" />
+    </SOURCES>
+  </library>
+</component>

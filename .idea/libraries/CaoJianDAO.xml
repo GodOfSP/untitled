@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CaoJianDAO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PhoneProject/lib/CaoJianDAO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/PhoneProject/lib/CaoJianDAO.jar!/" />
+    </SOURCES>
+  </library>
+</component>

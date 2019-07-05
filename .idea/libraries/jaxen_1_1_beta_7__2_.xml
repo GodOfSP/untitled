@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jaxen-1.1-beta-7 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jaxen-1.1-beta-7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
