@@ -28,6 +28,9 @@
     <servlet>
         <servlet-name>DelContrastServlet</servlet-name>
         <servlet-class>controller.DelContrastServlet</servlet-class>
+    </servlet> <servlet>
+        <servlet-name>GetPhonedDetailServlet</servlet-name>
+        <servlet-class>controller.GetPhonedDetailServlet</servlet-class>
     </servlet>
 
 
@@ -55,6 +58,9 @@
     <servlet-mapping>
         <servlet-name>DelContrastServlet</servlet-name>
         <url-pattern>/delContrast</url-pattern>
+    </servlet-mapping><servlet-mapping>
+        <servlet-name>GetPhonedDetailServlet</servlet-name>
+        <url-pattern>/getPhoneDetail</url-pattern>
     </servlet-mapping>
 
     <session-config>

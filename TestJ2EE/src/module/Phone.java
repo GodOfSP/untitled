@@ -16,7 +16,8 @@ public class Phone {
     private String cpu;
     private String ram;        //运行内存
     private String rom;  //存储
-    private String pics;  //相关文章链接
+    private String pics;  //
+    private String pic;  //
     private String RelatedArticles; // 相关文章链接
 
     public String getId() {
@@ -61,6 +62,14 @@ public class Phone {
 
     public String getTimeToMarket() {
         return timeToMarket;
+    }
+
+    public String getPic() {
+        return pic;
+    }
+
+    public void setPic(String pic) {
+        this.pic = pic;
     }
 
     public void setTimeToMarket(String timeToMarket) {

@@ -4,7 +4,7 @@
 		<!-- connection-type:Please use "dbcp" or "jdbc" default:"jdbc" -->
 		<connection-type>dbcp</connection-type>
 		<driver-class>com.mysql.jdbc.Driver</driver-class>
-		<db-url>jdbc:mysql://localhost:3306/phone?serverTimezone=UTC</db-url>
+		<db-url>jdbc:mysql://localhost:3306/ls?serverTimezone=UTC</db-url>
 		<user-name>root</user-name>
 		<pass-word>237523</pass-word>
 		<show-sql>true</show-sql>

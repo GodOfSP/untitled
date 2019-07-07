@@ -6,6 +6,6 @@ import java.util.Map;
 
 public interface PhoneService {
 
-    List<Map<String,Object>>   getPhoneList() throws Exception;
+    Object   getPhoneList() throws Exception;
 
 }
