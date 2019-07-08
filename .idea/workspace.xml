@@ -7,23 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bc39a30-b3a0-4a79-9a1e-531d33dc4ae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestJ2EE/src/controller/GetPhonedDetailServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestJ2EE/src/module/dao/PhoneDetailDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestJ2EE/src/module/dao/impl/PhoneDetailDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestJ2EE/src/module/service/PhoneDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestJ2EE/src/module/service/impl/PhoneDetailServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/src/db-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/src/db-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/src/module/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/src/module/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/src/module/dao/impl/PhoneDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/src/module/dao/impl/PhoneDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/src/module/dao/impl/getContrastListDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/src/module/dao/impl/getContrastListDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/src/module/service/PhoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/src/module/service/PhoneService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/controller/GetPhoneListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/controller/GetPhoneListServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/db-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/db-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/module/dao/impl/PhoneDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/module/dao/impl/PhoneDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/module/service/PhoneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/module/service/PhoneService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/module/service/impl/PhoneServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/classes/module/service/impl/PhoneServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestJ2EE/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/TestJ2EE_war_exploded/WEB-INF/classes/controller/GetPhoneListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TestJ2EE_war_exploded/WEB-INF/classes/controller/GetPhoneListServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/TestJ2EE_war_exploded/WEB-INF/classes/db-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TestJ2EE_war_exploded/WEB-INF/classes/db-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/TestJ2EE_war_exploded/WEB-INF/classes/module/dao/impl/PhoneDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TestJ2EE_war_exploded/WEB-INF/classes/module/dao/impl/PhoneDaoImpl.class" afterDir="false" />
@@ -42,172 +26,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/controller/GetPhonedDetailServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/module/dao/impl/PhoneDetailDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/module/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
-              <folding>
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#782#783#0" expanded="true" />
-                <element signature="e#816#817#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-                <element signature="e#930#931#0" expanded="true" />
-                <element signature="e#966#967#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1208#1209#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-                <element signature="e#1282#1283#0" expanded="true" />
-                <element signature="e#1310#1311#0" expanded="true" />
-                <element signature="e#1352#1353#0" expanded="true" />
-                <element signature="e#1386#1387#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1460#1461#0" expanded="true" />
-                <element signature="e#1512#1513#0" expanded="true" />
-                <element signature="e#1538#1539#0" expanded="true" />
-                <element signature="e#1576#1577#0" expanded="true" />
-                <element signature="e#1606#1607#0" expanded="true" />
-                <element signature="e#1516#1517#0" expanded="true" />
-                <element signature="e#1564#1565#0" expanded="true" />
-                <element signature="e#1600#1601#0" expanded="true" />
-                <element signature="e#1632#1633#0" expanded="true" />
-                <element signature="e#1682#1683#0" expanded="true" />
-                <element signature="e#1724#1725#0" expanded="true" />
-                <element signature="e#1766#1767#0" expanded="true" />
-                <element signature="e#1804#1805#0" expanded="true" />
-                <element signature="e#1866#1867#0" expanded="true" />
-                <element signature="e#1920#1921#0" expanded="true" />
-                <element signature="e#1963#1964#0" expanded="true" />
-                <element signature="e#2002#2003#0" expanded="true" />
-                <element signature="e#2066#2067#0" expanded="true" />
-                <element signature="e#2122#2123#0" expanded="true" />
-                <element signature="e#2159#2160#0" expanded="true" />
-                <element signature="e#2192#2193#0" expanded="true" />
-                <element signature="e#2244#2245#0" expanded="true" />
-                <element signature="e#2283#2284#0" expanded="true" />
-                <element signature="e#2321#2322#0" expanded="true" />
-                <element signature="e#2355#2356#0" expanded="true" />
-                <element signature="e#2409#2410#0" expanded="true" />
-                <element signature="e#2450#2451#0" expanded="true" />
-                <element signature="e#2479#2480#0" expanded="true" />
-                <element signature="e#2504#2505#0" expanded="true" />
-                <element signature="e#2540#2541#0" expanded="true" />
-                <element signature="e#2568#2569#0" expanded="true" />
-                <element signature="e#2598#2599#0" expanded="true" />
-                <element signature="e#2624#2625#0" expanded="true" />
-                <element signature="e#2662#2663#0" expanded="true" />
-                <element signature="e#2692#2693#0" expanded="true" />
-                <element signature="e#2722#2723#0" expanded="true" />
-                <element signature="e#2748#2749#0" expanded="true" />
-                <element signature="e#2786#2787#0" expanded="true" />
-                <element signature="e#2816#2817#0" expanded="true" />
-                <element signature="e#2846#2847#0" expanded="true" />
-                <element signature="e#2872#2873#0" expanded="true" />
-                <element signature="e#2910#2911#0" expanded="true" />
-                <element signature="e#2940#2941#0" expanded="true" />
-                <element signature="e#2971#2972#0" expanded="true" />
-                <element signature="e#2998#2999#0" expanded="true" />
-                <element signature="e#3038#3039#0" expanded="true" />
-                <element signature="e#3070#3071#0" expanded="true" />
-                <element signature="e#3112#3113#0" expanded="true" />
-                <element signature="e#3150#3151#0" expanded="true" />
-                <element signature="e#3212#3213#0" expanded="true" />
-                <element signature="e#3261#3262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/module/service/impl/PhoneServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/module/dao/impl/getContrastListDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="125" selection-start-line="11" selection-start-column="125" selection-end-line="11" selection-end-column="125" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/TestJ2EE/web/WEB-INF/lib/CaoJianDAO.jar!/com/caojian/dao/basedao/impl/BaseDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1259">
-              <caret line="277" selection-start-line="277" selection-end-line="277" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/module/dao/PhoneDetailDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/module/service/PhoneDetailService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestJ2EE/src/module/service/impl/PhoneDetailServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -538,12 +357,20 @@
       <workItem from="1562307485072" duration="5889000" />
       <workItem from="1562381651502" duration="1755000" />
       <workItem from="1562409502274" duration="3787000" />
-      <workItem from="1562459189767" duration="3572000" />
+      <workItem from="1562459189767" duration="3638000" />
     </task>
+    <task id="LOCAL-00001" summary="home 7/7">
+      <created>1562502787092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562502787092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40187000" />
+    <option name="totallyTimeSpent" value="40253000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,20 +383,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81737196" visible="true" weight="0.2793177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8199566" visible="true" weight="0.2793177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.18262807" side_tool="true" visible="true" weight="0.2793177" />
+      <window_info id="Web" order="7" sideWeight="0.18004338" side_tool="true" visible="true" weight="0.2793177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.63015187" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.5130152" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5130152" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -594,6 +420,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="home 7/7" />
+    <option name="LAST_COMMIT_MESSAGE" value="home 7/7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
